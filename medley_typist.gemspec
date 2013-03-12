@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = MedleyTypist::VERSION
   spec.authors       = ["Lukas Alexandre"]
   spec.email         = ["lukasalexandre@me.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Match inputed words based the keyboard letter disposal}
+  spec.summary       = %q{Match inputed words based the keyboard letter disposal}
   spec.homepage      = ""
   spec.license       = "MIT"
 
